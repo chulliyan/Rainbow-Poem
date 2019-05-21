@@ -3,5 +3,7 @@ Violet
 Indigo
 Blue
 Green
+Yeloow
+Orange
 Red
 These are the colors of rainbow
